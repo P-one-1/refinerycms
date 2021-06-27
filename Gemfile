@@ -64,3 +64,5 @@ gem 'refinerycms-authentication-devise', '~> 2.0'
 #  gem 'refinerycms-inquiries', ['~> 4.0', '>= 4.0.0']
 #  gem 'refinerycms-search', ['~> 4.0', '>= 4.0.0']
 #  gem 'refinerycms-page-images', ['~> 4.0', '>= 4.0.0']
+
+gem 'refinerycms-events', path: 'vendor/extensions'
