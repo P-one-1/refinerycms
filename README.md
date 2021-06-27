@@ -40,6 +40,7 @@ TIP: Overriding a file simply copies the file from Refinery's code into your app
     config.mounted_path = "/blog"
 
 
+
 ## Generate an Extension to Use Your MVCs
 
 # Generating an extension
@@ -65,7 +66,7 @@ Now click on "Switch to your website", and navigate to http://localhost:3000/eve
 You'll notice not only has Refinery generated the backend "Events" tab but also a new menu item called "Events" and two new front-end views,index.html.erb and show.html.erb, located in vendor/extensions/events/app/views/refinery/events/ for you to customise.
 
 # Testing your extension
-There is a separate guide which covers this subject found at Testing Your Extension.
+There is a separate guide which covers this subject found at Testing Your Extension(https://www.refinerycms.com/guides/testing/).
 
 
 # Crudify: The Backbone of Refinery Engines
